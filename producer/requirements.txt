@@ -1,3 +1,0 @@
-pika
-flask==2.1.0
-pymongo==3.12.0
